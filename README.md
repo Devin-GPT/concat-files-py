@@ -1,6 +1,3 @@
-Here's the revised README.md content with corrected markdown formatting. You can copy and paste this directly:
-
-```
 # concat-files-py
 
 `concat-files-py` is a Python utility designed to simplify the process of concatenating the contents of `.dot` files and all files within a `src` directory into a single text file. This tool is particularly useful for developers and system administrators who require a quick and efficient method to consolidate file contents for documentation, backup, or archival purposes.
@@ -59,4 +56,3 @@ We welcome contributions to `concat-files-py`! If you have suggestions or bug re
 - Commit your changes (`git commit -am 'Add some amazing feature'`).
 - Push to the branch (`git push origin feature/amazing-feature`).
 - Open a pull request.
-```
